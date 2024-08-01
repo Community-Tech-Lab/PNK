@@ -1,7 +1,9 @@
 ---
 ---
 
-@import 
+// @import "{{ site.theme }}";
+
+@import "jekyll-theme-time-machine";
 
 body {
   font-size: 35px;
@@ -10,4 +12,4 @@ body {
   background: ##ffd700;
 }
 
-// @import "jekyll-theme-time-machine";
+
