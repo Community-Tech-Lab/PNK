@@ -15,6 +15,7 @@ Currently, it is being expanded and maintained by the Community Tech Lab, a part
 This server documentation and software are free and open source, made possible by funding from the Internet Society Foundation (ISOC).
 
 **License**
+
 Portable Network Kit (PNK) by Community Tech NY is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 
