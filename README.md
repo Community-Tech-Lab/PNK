@@ -6,7 +6,7 @@ PNKs are NOT a product – we don’t sell them off-the-shelf. CTNY uses PNKs wh
 
 If you're interested in a training or workshop with the PNK, please get in touch.
 
-**Partners/History**
+**History & Partners**
 
 PNK was originally developed in 2017 by Community Tech NY through the Resilient Networks NYC project, a 5-neighborhood NYC mesh networking partnership among New America’s Resilient Communities program, The Point CDC, the Fifth Avenue Committee, the Kings Bay Y, Silicon Harlem, and the Rockaway Development and Revitalization Corporation. Resilient Networks NYC was supported by the New York City Economic Development Corporation’s RISE : NYC program, a Superstorm Sandy recovery effort. 
 
