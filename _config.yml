@@ -3,7 +3,7 @@ description: [The Portable Network Kit (PNK) is a wireless network in a suitcase
 
 # remote_theme: pages-themes/time-machine@v0.2.0
 
-remote_theme: y7kim/agency-jekyll-theme
+remote_theme: agency-jekyll-theme
 
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
