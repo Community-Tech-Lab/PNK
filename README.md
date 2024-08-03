@@ -29,17 +29,15 @@ If you're interested in a training or workshop with the PNK, please **[get in to
 
 **The PNK project was developed with a strong commitment to community collaboration and shared progress. We encourage you to use and contribute to it in a spirit of collective improvement and mutual benefit, ensuring that it serves the greater good and fosters positive innovation.**
 
-## **License**
-
-***Portable Network Kit (PNK)*** by Community Tech NY is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
-
 ## **Disclaimer of Warranties and Limitation of Liability**
 
 Unless otherwise separately undertaken by Community Tech NY (CTNY) to the extent possible, CTNY offers the Portable Network Kit (PNK) materials as-is and as-available, and makes no representations or warranties of any kind concerning these licensed materials, whether express, implied, statutory, or other. This includes, without limitation, warranties of title, merchantability, fitness for a particular purpose, non-infringement, absence of latent or other defects, accuracy, or the presence or absence of errors, whether or not known or discoverable. Where disclaimers of warranties are not allowed in full or in part, this disclaimer may not apply to You.
 
 To the extent possible, in no event will CTNY be liable to You on any legal theory (including, without limitation, negligence) or otherwise for any direct, special, indirect, incidental, consequential, punitive, exemplary, or other losses, costs, expenses, or damages arising out of this Public License or use of the Licensed Materials, even if CTNY has been advised of the possibility of such losses, costs, expenses, or damages. Where a limitation of liability is not allowed in full or in part, this limitation may not apply to You.
 
+## **License**
 
+***Portable Network Kit (PNK)*** by Community Tech NY is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 
 
