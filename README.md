@@ -1,5 +1,7 @@
 # **The Portable Network Kit**
 
+![Image of a PNK Kit at the Lab.](assets)
+
 ***The Portable Network Kit (PNK)*** is a wireless network in a suitcase that helps people understand how to build their own mini-internet – and with it, how the internet works and might be owned and governed more equitably. Originally conceived as a network repair kit for [Resilient Networks for RISE: NYC](https://www.newamerica.org/resilient-communities/flexible-future-ready-networks/rise-nyc/) in New York City, the kits were repurposed to work both as a teaching tool and as an emergency standalone wireless network. 
 
 ## **History & Partners**
