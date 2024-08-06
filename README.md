@@ -40,6 +40,10 @@ For code, software documentation and license, [click here](https://docs.google.c
 
 **PNKs are NOT a product** – [Community Tech NY](https://www.communitytechny.org/) does not sell them off-the-shelf. [CTNY](https://www.communitytechny.org/) uses PNKs when training community members in network development and deployment, giving them practical hands-on experience that can serve as a springboard for building their own networks with in-person or remote learning support.
 
+> [!NOTE]
+> **PNKs are NOT a product** – [Community Tech NY](https://www.communitytechny.org/) does not sell them off-the-shelf. [CTNY](https://www.communitytechny.org/) uses PNKs when training community members in network development and deployment, giving them practical hands-on experience that can serve as a springboard for building their own networks with in-person or remote learning support.
+
+
 If you're interested in a training or workshop with the PNK, please **[get in touch](https://docs.google.com/forms/d/e/1FAIpQLSeaSGgodyQXhLplaR_w3bcliHZtsk8GAK5E5mqxCkI6_oVRzw/viewform?usp=sf_link)**.
 
 **The PNK project was developed with a strong commitment to community collaboration and shared progress. We encourage you to use and contribute to it in a spirit of collective improvement and mutual benefit, ensuring that it serves the greater good and fosters positive innovation.**
