@@ -24,9 +24,9 @@ PNKs consist of off-the-shelf hardware and open-source software housed in a wate
 | Component  | Part Number | Links | Notes | 
 | ------------- | ------------- | ------------- | ------------- |
 | Raspberry Pi 5  | RP5-8GB | [RaspberryPi](https://www.raspberrypi.com/products/raspberry-pi-5/) or Vilros  | This can be purchased as a kit OR as individual components |
-| SD Card  | MB-MC64GA/AM  | Content Cell  | Content Cell  |
+| SD Card  | MB-MC64GA/AM  | Content Cell  | For IoT or remote sensing and monitoring applications, this SD card might be better suited: Samsung Pro Endurance |
 | MikroTik Router  | RB960PGS  | Content Cell  | Content Cell  |
-| AC Mesh  | UAP-AC-M  | Content Cell  | Content Cell  |
+| AC Mesh  | UAP-AC-M  | [Ubiquity](https://store.ui.com/us/en/collections/unifi-wifi-outdoor-long-range/products/uap-ac-mesh) | It should work with other Unifi antennas |
 
 
 For a spreadsheet B.O.M. [click here](https://docs.google.com/spreadsheets/d/1eakXmEV1p509UbTNdT2-7seFS0PiE2jJiWioWvAZDfM/edit?gid=0#gid=0). 
