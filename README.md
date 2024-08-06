@@ -21,7 +21,14 @@ PNKs consist of off-the-shelf hardware and open-source software housed in a wate
 
 ### **Hardware**
 [Table here] 
-Spreadsheet here. 
+
+| First Header  | Second Header | Second Header |
+| ------------- | ------------- | ------------- |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
+
+For a spreadsheet B.O.M. [click here](https://docs.google.com/spreadsheets/d/1eakXmEV1p509UbTNdT2-7seFS0PiE2jJiWioWvAZDfM/edit?gid=0#gid=0). 
 
 ### **Software**
 [Brief description of software] 
