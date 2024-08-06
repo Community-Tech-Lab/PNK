@@ -15,7 +15,9 @@ This server documentation and software are free and open source, made possible b
 
 ## **What Is A PNK?**
 
-![Photos of PNK for education.](assets/2465b59d3d3fa0a47454f6755971c1c3.jpeg)
+![Illustration by XXX.](assets/5d1f40978cbc5c1d0c8801af182b49a9.png)
+
+<sub> Illustration by TBA </sub>
 
 PNKs consist of off-the-shelf hardware and open-source software housed in a waterproof, battery-powered, solar-enabled kit. The kits can be used to connect to an existing internet connection or offline as a local wireless networking system, complete with its own server, chat service, and document editor. 
 
@@ -38,19 +40,17 @@ The open-source software of the PNK establishes a local wireless networking syst
 
 For code, software documentation and license, [click here](https://docs.google.com/spreadsheets/d/1eakXmEV1p509UbTNdT2-7seFS0PiE2jJiWioWvAZDfM/edit?gid=0#gid=0). 
 
+![Photos of PNK for education.](assets/2465b59d3d3fa0a47454f6755971c1c3.jpeg)
+
 **PNKs are NOT a product** – [Community Tech NY](https://www.communitytechny.org/) does not sell them off-the-shelf. [CTNY](https://www.communitytechny.org/) uses PNKs when training community members in network development and deployment, giving them practical hands-on experience that can serve as a springboard for building their own networks with in-person or remote learning support.
 
 > [!NOTE]
 > **PNKs are NOT a product** – [Community Tech NY](https://www.communitytechny.org/) does not sell them off-the-shelf. [CTNY](https://www.communitytechny.org/) uses PNKs when training community members in network development and deployment, giving them practical hands-on experience that can serve as a springboard for building their own networks with in-person or remote learning support.
 
-
 If you're interested in a training or workshop with the PNK, please **[get in touch](https://docs.google.com/forms/d/e/1FAIpQLSeaSGgodyQXhLplaR_w3bcliHZtsk8GAK5E5mqxCkI6_oVRzw/viewform?usp=sf_link)**.
 
 **The PNK project was developed with a strong commitment to community collaboration and shared progress. We encourage you to use and contribute to it in a spirit of collective improvement and mutual benefit, ensuring that it serves the greater good and fosters positive innovation.**
 
-![Illustration by XXX.](assets/5d1f40978cbc5c1d0c8801af182b49a9.png)
-
-<sub> Illustration by TBA </sub>
 
 ## **Disclaimer of Warranties and Limitation of Liability**
 
