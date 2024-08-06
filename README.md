@@ -20,13 +20,14 @@ This server documentation and software are free and open source, made possible b
 PNKs consist of off-the-shelf hardware and open-source software housed in a waterproof, battery-powered, solar-enabled kit. The kits can be used to connect to an existing internet connection or offline as a local wireless networking system, complete with its own server, chat service, and document editor. 
 
 ### **Hardware**
-[Table here] 
 
-| First Header  | Second Header | Second Header |
-| ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
+| Component  | Part Number | Links | Notes | 
+| ------------- | ------------- | ------------- | ------------- |
+| Raspberry Pi 5  | RP5-8GB | [RaspberryPi](https://www.raspberrypi.com/products/raspberry-pi-5/) or Vilros  | This can be purchased as a kit OR as individual components |
+| SD Card  | MB-MC64GA/AM  | Content Cell  | Content Cell  |
+| MikroTik Router  | RB960PGS  | Content Cell  | Content Cell  |
+| AC Mesh  | UAP-AC-M  | Content Cell  | Content Cell  |
+
 
 For a spreadsheet B.O.M. [click here](https://docs.google.com/spreadsheets/d/1eakXmEV1p509UbTNdT2-7seFS0PiE2jJiWioWvAZDfM/edit?gid=0#gid=0). 
 
