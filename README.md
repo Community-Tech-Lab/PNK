@@ -33,6 +33,9 @@ If you're interested in a training or workshop with the PNK, please **[get in to
 
 **The PNK project was developed with a strong commitment to community collaboration and shared progress. We encourage you to use and contribute to it in a spirit of collective improvement and mutual benefit, ensuring that it serves the greater good and fosters positive innovation.**
 
+![Illustration by XXX.](assets/5d1f40978cbc5c1d0c8801af182b49a9.png)
+<sub> Illustration by TBA </sub>
+
 ## **Disclaimer of Warranties and Limitation of Liability**
 
 Unless otherwise separately undertaken by Community Tech NY (CTNY) to the extent possible, CTNY offers the Portable Network Kit (PNK) materials as-is and as-available, and makes no representations or warranties of any kind concerning these licensed materials, whether express, implied, statutory, or other. This includes, without limitation, warranties of title, merchantability, fitness for a particular purpose, non-infringement, absence of latent or other defects, accuracy, or the presence or absence of errors, whether or not known or discoverable. Where disclaimers of warranties are not allowed in full or in part, this disclaimer may not apply to You.
