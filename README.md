@@ -15,7 +15,7 @@ This server documentation and software are free and open source, made possible b
 
 ## **What Is A PNK?**
 
-![Illustration by XXX.](assets/5d1f40978cbc5c1d0c8801af182b49a9.png)
+![Photos of PNK for education.](assets/2465b59d3d3fa0a47454f6755971c1c3.jpeg)
 
 PNKs consist of off-the-shelf hardware and open-source software housed in a waterproof, battery-powered, solar-enabled kit. The kits can be used to connect to an existing internet connection or offline as a local wireless networking system, complete with its own server, chat service, and document editor. 
 
