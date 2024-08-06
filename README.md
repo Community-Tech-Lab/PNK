@@ -20,6 +20,8 @@ This server documentation and software are free and open source, made possible b
 PNKs consist of off-the-shelf hardware and open-source software housed in a waterproof, battery-powered, solar-enabled kit. The kits can be used to connect to an existing internet connection or offline as a local wireless networking system, complete with its own server, chat service, and document editor. 
 
 ### **Hardware**
+The off-the-shelf elements of the PNK include a processor, a wireless modem/router, and a wireless antenna, providing a modular, accessible and customizable starting off point.
+
 
 | Component  | Role | Part Number | Links | 
 | ------------- | ------------- | ------------- | ------------- |
@@ -32,8 +34,9 @@ PNKs consist of off-the-shelf hardware and open-source software housed in a wate
 For a spreadsheet B.O.M. [click here](https://docs.google.com/spreadsheets/d/1eakXmEV1p509UbTNdT2-7seFS0PiE2jJiWioWvAZDfM/edit?gid=0#gid=0). 
 
 ### **Software**
-[Brief description of software] 
-Link to Code Repo. 
+The open-source software of the PNK establishes a local wireless networking system, featuring its own shared server, chat service, and document editor. It provides access to self-contained and self-maintained communication and collaboration tools.
+
+For code, software documentation and license, [click here](https://docs.google.com/spreadsheets/d/1eakXmEV1p509UbTNdT2-7seFS0PiE2jJiWioWvAZDfM/edit?gid=0#gid=0). 
 
 **PNKs are NOT a product** – [Community Tech NY](https://www.communitytechny.org/) does not sell them off-the-shelf. [CTNY](https://www.communitytechny.org/) uses PNKs when training community members in network development and deployment, giving them practical hands-on experience that can serve as a springboard for building their own networks with in-person or remote learning support.
 
