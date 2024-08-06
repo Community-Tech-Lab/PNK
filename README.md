@@ -34,6 +34,7 @@ If you're interested in a training or workshop with the PNK, please **[get in to
 **The PNK project was developed with a strong commitment to community collaboration and shared progress. We encourage you to use and contribute to it in a spirit of collective improvement and mutual benefit, ensuring that it serves the greater good and fosters positive innovation.**
 
 ![Illustration by XXX.](assets/5d1f40978cbc5c1d0c8801af182b49a9.png)
+
 <sub> Illustration by TBA </sub>
 
 ## **Disclaimer of Warranties and Limitation of Liability**
