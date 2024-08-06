@@ -38,7 +38,7 @@ For a spreadsheet B.O.M. [click here](https://docs.google.com/spreadsheets/d/1ea
 ### **Software**
 The open-source software of the PNK establishes a local wireless networking system, featuring its own shared server, chat service, and document editor. It provides access to self-contained and self-maintained communication and collaboration tools.
 
-For code, software documentation and license, [click here](https://docs.google.com/spreadsheets/d/1eakXmEV1p509UbTNdT2-7seFS0PiE2jJiWioWvAZDfM/edit?gid=0#gid=0). 
+For code, software documentation and license, [click here](https://github.com/Community-Tech-Lab/PNK-Software). 
 
 ![Photos of PNK for education.](assets/2465b59d3d3fa0a47454f6755971c1c3.jpeg)
 
