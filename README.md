@@ -23,9 +23,9 @@ PNKs consist of off-the-shelf hardware and open-source software housed in a wate
 
 | Component  | Part Number | Links | Notes | 
 | ------------- | ------------- | ------------- | ------------- |
-| Raspberry Pi 5  | RP5-8GB | [RaspberryPi](https://www.raspberrypi.com/products/raspberry-pi-5/) or Vilros  | This can be purchased as a kit OR as individual components |
-| SD Card  | MB-MC64GA/AM  | Content Cell  | For IoT or remote sensing and monitoring applications, this SD card might be better suited: Samsung Pro Endurance |
-| MikroTik Router  | RB960PGS  | Content Cell  | Content Cell  |
+| Raspberry Pi 5  | RP5-8GB | [RaspberryPi](https://www.raspberrypi.com/products/raspberry-pi-5/) or [Vilros](https://vilros.com/collections/raspberry-pi-5/products/raspberry-pi-5?variant=40082990399582)  | This can be purchased as a kit OR as individual components |
+| SD Card  | MB-MC64GA/AM  | [Samsung Evo](https://www.samsung.com/us/computing/memory-storage/memory-cards/evo-plus-microsdxc-memory-card-64gb-mb-mc64ha-am/)  | For IoT or remote sensing and monitoring applications, this SD card might be better suited: [Samsung Pro Endurance](https://www.samsung.com/us/computing/memory-storage/memory-cards/pro-endurance-adapter-microsdxc-64gb-mb-mj64ka-am/) |
+| MikroTik Router  | RB960PGS  | [Mikrotik](https://mikrotik.com/product/RB960PGS) or [Newegg](https://www.newegg.com/p/0XK-000J-00040)  |   |
 | AC Mesh  | UAP-AC-M  | [Ubiquity](https://store.ui.com/us/en/collections/unifi-wifi-outdoor-long-range/products/uap-ac-mesh) | It should work with other Unifi antennas |
 
 
