@@ -31,6 +31,7 @@ The off-the-shelf elements of the PNK include a processor, a wireless modem/rout
 | **SD Card**  | _Local Storage_| MB-MC64GA/AM  | [Samsung Evo](https://www.samsung.com/us/computing/memory-storage/memory-cards/evo-plus-microsdxc-memory-card-64gb-mb-mc64ha-am/)  |
 | **MikroTik Router**  | _Wireless Router_ | RB960PGS  | [Mikrotik](https://mikrotik.com/product/RB960PGS) or [Newegg](https://www.newegg.com/p/0XK-000J-00040)  |  
 | **AC Mesh**  | _Wireless Antenna_ | UAP-AC-M  | [Ubiquity](https://store.ui.com/us/en/collections/unifi-wifi-outdoor-long-range/products/uap-ac-mesh) | 
+| **Ethernet Cables** | _Connector_ |  | [Choosing Ethernet Cables](https://tripplite.eaton.com/products/ethernet-cable-typesetting ) |
 
 
 For a spreadsheet B.O.M. [click here](https://docs.google.com/spreadsheets/d/1eakXmEV1p509UbTNdT2-7seFS0PiE2jJiWioWvAZDfM/edit?gid=0#gid=0). 
