@@ -15,7 +15,7 @@ This server documentation and software are free and open source, made possible b
 
 ## **What Is A PNK?**
 
-![Illustration by XXX.](assets/5d1f40978cbc5c1d0c8801af182b49a9.png)
+![Illustration by XXX.](assets/assets/Screen Shot 2024-08-14 at 12.25.10 PM.png)
 
 <sub> Illustration by TBA </sub>
 
