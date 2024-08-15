@@ -6,7 +6,9 @@ The **Portable Network Kit (PNK)** is a wireless network in a suitcase that help
 
 ## **History & Partners**
 
-PNK was originally developed in 2017 by [Community Tech NY](https://www.communitytechny.org/) through the Resilient Networks NYC project, a 5-neighborhood NYC mesh networking partnership among [New America’s Resilient Communities program](https://www.newamerica.org/resilient-communities/), [The Point CDC](https://www.thepoint.org/), [the Fifth Avenue Committee](https://hcr.ny.gov/location/fifth-avenue-committee-inc), the Kings Bay Y, [Silicon Harlem](https://siliconharlem.com/), and the [Rockaway Development and Revitalization Corporation](https://www.rdrc.org/). Resilient Networks NYC was supported by the New York City Economic Development Corporation’s RISE:NYC program, a Superstorm Sandy recovery effort. 
+PNK was originally developed in 2017 by [Community Tech NY](https://www.communitytechny.org/) through the Resilient Networks NYC project, a 5-neighborhood NYC mesh networking partnership among [New America’s Resilient Communities program](https://www.newamerica.org/resilient-communities/), [The Point CDC](https://www.thepoint.org/), [the Fifth Avenue Committee](https://hcr.ny.gov/location/fifth-avenue-committee-inc), the Kings Bay Y, [Silicon Harlem](https://siliconharlem.com/), and the [Rockaway Development and Revitalization Corporation](https://www.rdrc.org/). Resilient Networks NYC was supported by the New York City Economic Development Corporation’s RISE:NYC program, a Superstorm Sandy recovery effort.
+
+![Photos of The Community Tech Lab at El Puente.](assets/commtechlab.png)
 
 Currently, it is being expanded and maintained by the Community Tech Lab, a partnership between Community Tech NY and [El Puente de Williamsburg](https://www.elpuente.org/), and supported by [The Altman Foundation](https://www.altmanfoundation.org/) and [the New York Community Trust (NYCT)](https://thenytrust.org/).
 
@@ -37,7 +39,6 @@ The off-the-shelf elements of the PNK include a processor, a wireless modem/rout
 | **Ethernet Cables** | _Connector_ | RJ45 | |
 
 
-
 For **a spreadsheet B.O.M.** [click here](https://docs.google.com/spreadsheets/d/1eakXmEV1p509UbTNdT2-7seFS0PiE2jJiWioWvAZDfM/edit?gid=0#gid=0). 
 
 ### **Software**
@@ -52,8 +53,6 @@ The open-source software of the PNK establishes a local wireless networking syst
 **The PNK project was developed with a strong commitment to community collaboration and shared progress. We encourage you to use and contribute to it in a spirit of collective improvement and mutual benefit, ensuring that it serves the greater good and fosters positive innovation.**
 
 If you're interested in a training or workshop with the PNK, please **[get in touch](https://docs.google.com/forms/d/e/1FAIpQLSeaSGgodyQXhLplaR_w3bcliHZtsk8GAK5E5mqxCkI6_oVRzw/viewform?usp=sf_link)**.
-
-![Photos of The Community Tech Lab at El Puente.](assets/commtechlab.png)
 
 
 ## **Disclaimer of Warranties and Limitation of Liability**
