@@ -35,6 +35,7 @@ The off-the-shelf elements of the PNK include a processor, a wireless modem/rout
 | **Ethernet Cables** | _Connector_ | | |
 
 
+
 For **a spreadsheet B.O.M.** [click here](https://docs.google.com/spreadsheets/d/1eakXmEV1p509UbTNdT2-7seFS0PiE2jJiWioWvAZDfM/edit?gid=0#gid=0). 
 
 ### **Software**
@@ -42,7 +43,7 @@ The open-source software of the PNK establishes a local wireless networking syst
 
 **For code, software documentation and license**, [click here](https://github.com/Community-Tech-Lab/PNK-Software). 
 
-**PNKs are NOT a product** – [Community Tech NY](https://www.communitytechny.org/) does not sell them off-the-shelf. [CTNY](https://www.communitytechny.org/) uses PNKs when training community members in network development and deployment, giving them practical hands-on experience that can serve as a springboard for building their own networks with in-person or remote learning support.
+**PNKs are NOT a product** – _[Community Tech NY](https://www.communitytechny.org/) does not sell them off-the-shelf. [CTNY](https://www.communitytechny.org/) uses PNKs when training community members in network development and deployment, giving them practical hands-on experience that can serve as a springboard for building their own networks with in-person or remote learning support._
 
 ![Photos of PNK for education.](assets/2465b59d3d3fa0a47454f6755971c1c3.jpeg)
 
