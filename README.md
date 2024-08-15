@@ -1,5 +1,5 @@
 
-![Image of a PNK Kit at the Lab.](assets/pnk-front.png)
+![Image of a PNK Kit at the Lab.](assets/PNKs.png)
 
 # **About The Portable Network Kit**
 
@@ -15,7 +15,7 @@ This server documentation and software are free and open source, made possible b
 
 ## **What Is A PNK?**
 
-![Illustration by XXX.](assets/Screen Shot 2024-08-14 at 12.25.10 PM.png)
+![Illustration by XXX.](assets/pnk-components.png)
 
 <sub> Illustration by TBA </sub>
 
@@ -47,6 +47,8 @@ For code, software documentation and license, [click here](https://github.com/Co
 > **PNKs are NOT a product** – [Community Tech NY](https://www.communitytechny.org/) does not sell them off-the-shelf. [CTNY](https://www.communitytechny.org/) uses PNKs when training community members in network development and deployment, giving them practical hands-on experience that can serve as a springboard for building their own networks with in-person or remote learning support.
 
 If you're interested in a training or workshop with the PNK, please **[get in touch](https://docs.google.com/forms/d/e/1FAIpQLSeaSGgodyQXhLplaR_w3bcliHZtsk8GAK5E5mqxCkI6_oVRzw/viewform?usp=sf_link)**.
+
+![Photos of The Community Tech Lab at El Puente.](assets/assets/commtechlab.png)
 
 > [!IMPORTANT]
 > **The PNK project was developed with a strong commitment to community collaboration and shared progress. We encourage you to use and contribute to it in a spirit of collective improvement and mutual benefit, ensuring that it serves the greater good and fosters positive innovation.**
