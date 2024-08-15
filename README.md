@@ -3,7 +3,7 @@
 
 # **About The Portable Network Kit**
 
-The ***Portable Network Kit (PNK)*** is a wireless network in a suitcase that helps people understand how to build their own mini-internet – and with it, how the internet works and might be owned and governed more equitably. Originally conceived as a network repair kit for [Resilient Networks for RISE: NYC](https://www.newamerica.org/resilient-communities/flexible-future-ready-networks/rise-nyc/) in New York City, the kits were repurposed to work both as a teaching tool and as an emergency standalone wireless network. 
+The **Portable Network Kit (PNK)** is a wireless network in a suitcase that helps people understand how to build their own mini-internet – and with it, how the internet works and might be owned and governed more equitably. Originally conceived as a network repair kit for [Resilient Networks for RISE: NYC](https://www.newamerica.org/resilient-communities/flexible-future-ready-networks/rise-nyc/) in New York City, the kits were repurposed to work both as a teaching tool and as an emergency standalone wireless network. 
 
 ## **History & Partners**
 
@@ -17,7 +17,7 @@ This server documentation and software are free and open source, made possible b
 
 ![Illustration by XXX.](assets/pnk-components.png)
 
-<sub> Illustration by TBA </sub>
+<sub> Illustration of PNK Components by TBA </sub>
 
 PNKs consist of off-the-shelf hardware and open-source software housed in a waterproof, battery-powered, solar-enabled kit. The kits can be used to connect to an existing internet connection or offline as a local wireless networking system, complete with its own server, chat service, and document editor. 
 
@@ -41,15 +41,15 @@ The open-source software of the PNK establishes a local wireless networking syst
 
 For code, software documentation and license, [click here](https://github.com/Community-Tech-Lab/PNK-Software). 
 
+**PNKs are NOT a product** – [Community Tech NY](https://www.communitytechny.org/) does not sell them off-the-shelf. [CTNY](https://www.communitytechny.org/) uses PNKs when training community members in network development and deployment, giving them practical hands-on experience that can serve as a springboard for building their own networks with in-person or remote learning support.
+
 ![Photos of PNK for education.](assets/2465b59d3d3fa0a47454f6755971c1c3.jpeg)
 
-**PNKs are NOT a product** – [Community Tech NY](https://www.communitytechny.org/) does not sell them off-the-shelf. [CTNY](https://www.communitytechny.org/) uses PNKs when training community members in network development and deployment, giving them practical hands-on experience that can serve as a springboard for building their own networks with in-person or remote learning support.
+**The PNK project was developed with a strong commitment to community collaboration and shared progress. We encourage you to use and contribute to it in a spirit of collective improvement and mutual benefit, ensuring that it serves the greater good and fosters positive innovation.**
 
 If you're interested in a training or workshop with the PNK, please **[get in touch](https://docs.google.com/forms/d/e/1FAIpQLSeaSGgodyQXhLplaR_w3bcliHZtsk8GAK5E5mqxCkI6_oVRzw/viewform?usp=sf_link)**.
 
 ![Photos of The Community Tech Lab at El Puente.](assets/commtechlab.png)
-
-**The PNK project was developed with a strong commitment to community collaboration and shared progress. We encourage you to use and contribute to it in a spirit of collective improvement and mutual benefit, ensuring that it serves the greater good and fosters positive innovation.**
 
 
 ## **Disclaimer of Warranties and Limitation of Liability**
