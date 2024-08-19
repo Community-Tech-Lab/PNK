@@ -27,14 +27,14 @@ This server documentation and software are free and open source, made possible b
 
 <sub> Illustration of PNK Components by TBA </sub>
 
-The off-the-shelf elements of the PNK include a processor, a wireless modem/router, and a wireless antenna, providing a modular, accessible and customizable starting off point.
+The off-the-shelf elements of the PNK include a processor, a router, and a wireless antenna, providing a modular, accessible and customizable starting off point.
 
 
 | Component  | Role | Part Number | Links | 
 | ------------- | ------------- | ------------- | ------------- |
 | **Raspberry Pi 5**  | _Processor_ | RP5-8GB | [RaspberryPi](https://www.raspberrypi.com/products/raspberry-pi-5/) or [Vilros](https://vilros.com/collections/raspberry-pi-5/products/raspberry-pi-5?variant=40082990399582)  |
 | **SD Card**  | _Local Storage_| MB-MC64GA/AM  | [Samsung Evo](https://www.samsung.com/us/computing/memory-storage/memory-cards/evo-plus-microsdxc-memory-card-64gb-mb-mc64ha-am/)  |
-| **MikroTik Router**  | _Wireless Router_ | RB960PGS  | [Mikrotik](https://mikrotik.com/product/RB960PGS) or [Newegg](https://www.newegg.com/p/0XK-000J-00040)  |  
+| **MikroTik Router**  | _Router_ | RB960PGS  | [Mikrotik](https://mikrotik.com/product/RB960PGS) or [Newegg](https://www.newegg.com/p/0XK-000J-00040)  |  
 | **AC Mesh**  | _Wireless Antenna_ | UAP-AC-M  | [Ubiquity](https://store.ui.com/us/en/collections/unifi-wifi-outdoor-long-range/products/uap-ac-mesh) | 
 | **Ethernet Cables** | _Connector_ | RJ45 | [Choosing Ethernet Cables](https://www.digitaltrends.com/computing/different-types-of-ethernet-cables-explained/) |
 
