@@ -6,9 +6,9 @@ The **Portable Network Kit (PNK)** is a wireless network in a suitcase that help
 
 ## **History & Partners**
 
-PNK was originally developed in 2017 by [Community Tech NY](https://www.communitytechny.org/) through the Resilient Networks NYC project, a 5-neighborhood NYC mesh networking partnership among [New America’s Resilient Communities program](https://www.newamerica.org/resilient-communities/), [The Point CDC](https://www.thepoint.org/), [the Fifth Avenue Committee](https://hcr.ny.gov/location/fifth-avenue-committee-inc), the Kings Bay Y, [Silicon Harlem](https://siliconharlem.com/), and the [Rockaway Development and Revitalization Corporation](https://www.rdrc.org/). Resilient Networks NYC was supported by the New York City Economic Development Corporation’s RISE:NYC program, a Superstorm Sandy recovery effort.
+PNK was originally developed in 2017 through the Resilient Networks NYC project, a 5-neighborhood NYC mesh networking partnership among [Community Tech NY](https://www.communitytechny.org/), [New America’s Resilient Communities program](https://www.newamerica.org/resilient-communities/), [The Point CDC](https://www.thepoint.org/), [the Fifth Avenue Committee](https://hcr.ny.gov/location/fifth-avenue-committee-inc), the Kings Bay Y, [Silicon Harlem](https://siliconharlem.com/), and the [Rockaway Development and Revitalization Corporation](https://www.rdrc.org/). Resilient Networks NYC was supported by the New York City Economic Development Corporation’s RISE:NYC program, a Superstorm Sandy recovery effort.
 
-Currently, it is being expanded and maintained by the Community Tech Lab, a partnership between Community Tech NY and [El Puente de Williamsburg](https://www.elpuente.org/), and supported by [The Altman Foundation](https://www.altmanfoundation.org/) and [the New York Community Trust (NYCT)](https://thenytrust.org/).
+Currently, it is being expanded and maintained by the Community Tech Lab, a partnership between [Community Tech NY](https://www.communitytechny.org/) and [El Puente de Williamsburg](https://www.elpuente.org/), and supported by [The Altman Foundation](https://www.altmanfoundation.org/) and [the New York Community Trust (NYCT)](https://thenytrust.org/).
 
 ![Photos of The Community Tech Lab at El Puente.](assets/commtechlab.png)
 
